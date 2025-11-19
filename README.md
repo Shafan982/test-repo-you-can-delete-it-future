@@ -6,3 +6,4 @@ feature2
 
 feature branch sdkkjfd
 
+Make a merge conflict
