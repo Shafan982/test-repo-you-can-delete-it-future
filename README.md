@@ -4,6 +4,9 @@ Feature1 Work is done
 Make changes in branch E
 feature2
 
+
+Make merge conflict
+
 feature branch sdkkjfd
 
 Make a merge conflict
